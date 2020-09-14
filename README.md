@@ -1,0 +1,8 @@
+- [ ] Download manifest
+- [ ] generate tar file,
+- [ ] rebuild config file
+- [ ] push layer by mounting image from other image
+- [ ] push one or more generated layer
+- [ ] push generaged config
+- [ ] push image manifest,
+- [ ] push image manifest with multiple tags
